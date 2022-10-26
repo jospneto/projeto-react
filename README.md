@@ -1,7 +1,7 @@
 <h1>Projeto React e Git</h1>
 <h2>Projeto que busca realizar de forma prática conhecimentos em React e Git para aprendizagem e desenvolvimento.</h2>
 
-<p>Será criado uma página web, que possivelmente disponibilizará de algumas funções utilizando a biblioteca 
+<p>Será criado uma página web, que possivelmente disponibilizará de algumas funções utilizando o framework
 JavaScript React, além da prática do layout com HTML e CSS. Por fim o intuito é praticar o versionamento de código com o Git.</p>
 
 > Tecnologias utilizadas
