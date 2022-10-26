@@ -7,5 +7,5 @@ JavaScript React, além da prática do layout com HTML e CSS. Por fim o intuito 
 > Tecnologias utilizadas
 * React<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 * Git<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-* HTML<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg".
-* CSS<align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
+* HTML<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg".
+* CSS<align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
