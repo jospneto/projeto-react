@@ -47,14 +47,45 @@
 
 .App-body {
   background-color: #61dafb;
-  min-height: 70vh;
-  display: grid;
-  justify-content: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
-.App-body #person{
+.App-body #person {
+  padding: 10px;
+  margin: 10px;
+  flex-wrap: wrap;
+}
+
+.App-body #person img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.App-body #person p {
+  color: azure;
+  font-size: large;
+  font-weight: bold;
+  text-align: justify;
+  flex-wrap: wrap;
+}
+
+.App-body #person {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-body #card {
+  width: 25%;
+  height: 40vh;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #282c34;
+  margin-left: 20px;
 }
 
 .App-link {
